@@ -1,0 +1,296 @@
+
+.navbar{
+    width: 100%;
+    height: 100px;
+}
+
+.pod{
+    display: inline-block;
+    position: absolute;
+    left: 15%;   
+}
+
+.dot{
+    color: red;
+    position: relative;
+    right: 5.5%;
+}
+
+.anchors{
+    padding-top: 15px;
+    position: relative;
+    left: 25%;
+    display: inline-block;
+   
+}
+
+.anchors>a{
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: large;
+}
+.anch{
+    color: rgb(153, 152, 152) ;
+}
+
+.home{
+    color: aqua;
+}
+
+.container{
+    width: 80%;
+    height:620px;
+    background-color: hotpink;
+}
+
+.container1a>p{
+    font-size: 50px;
+}
+
+.container1{
+    display: inline-block;
+    width: 21%;
+    height: 500px;
+    position: absolute; 
+    margin-top: 5%; 
+    left: 15%;
+    text-align: left;
+    color: rgb(83, 82, 82);
+}
+
+.container1b>p{
+    font-size: 22px;
+     top: 25%; 
+    color: rgb(153, 152, 152);
+}
+
+.container2{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    
+}
+
+.container2>img{
+    width: 100%;
+    height: 100% ;
+}
+.popular{
+    position: relative;
+    width: 40%;
+    height: 40%;  
+    right: 38%;
+    top: 590px;
+    padding-left: 20px;
+    background-color: rgb(247, 240, 240);
+}
+.pp>img{
+    display: inline-block;
+    border-radius: 360px;
+    border: 1px gray solid;
+    height: 5%;
+    width: 15%;
+    
+    
+}
+.p{
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    bottom: 20px;
+
+}
+
+/* {audios} */
+.main{
+    width: 100%;
+    height: 600px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left: 40px;
+    bottom: 53px;
+    /* top: 15px; */
+}
+
+.subdiv{
+    width:100%;
+    height: 30%;
+    margin-right: 15%;
+    margin-top: 2%;
+    /* box-shadow: 5px 4px 5px rgba(161, 161, 161, 0.562); */
+    
+}
+
+.image{
+    width: 35%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.image>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px  0px 0px 5px;
+}
+
+.title{
+    background-color: white;
+    width: 64%;
+    height: 100%;
+    float: right;
+    border-radius: 10px;
+}
+
+.middiv{
+    position: relative;
+    /* background-color: blue; */
+    width: 90%;
+    height: 70%;
+    bottom: 100%;
+    float: right;
+}
+audio{
+    width: 98%;
+    background-color: rgb(12, 2, 19);
+}
+.middiv>h2{
+    color: #65BEBD;
+}
+.middiv>p{
+    text-align: left;
+    color: #DCDADA;
+}
+
+.nam{
+    position: relative;
+    bottom: 20%;
+    width: 30%;
+    
+    float: right;
+    margin-right: 70%;
+    color: blue;
+    
+}
+
+ #i{
+    margin-right: 5%;
+}
+
+#i2{
+    margin-left: 5%;
+}
+
+.num{
+    padding-right: 60px;
+    padding-top: 3%;
+
+}
+
+a>span {
+    padding: 15px;
+    background-color: #21ABA0;
+    border-radius: 360px;
+    text-align: center;
+    width: 5%;
+    height: 5px;
+    color: white;
+}
+ a{
+     margin-top: 10%;
+    text-align: justify;
+    text-decoration: none;
+word-spacing: 10px;
+color:#21ABA0 ;} 
+
+/* {footer} */
+.s1{
+    background-color: rgb(124, 118, 118); 
+   height: 350px;
+   color: white;
+   text-align: center;
+   padding-top:2% ;
+   font-size: x-large;
+}
+
+
+.send{
+   margin-left: -10px;
+   padding: 20px 20px;
+   background-color: rgb(235, 13, 13);
+}
+
+.Email{
+   padding:  20px;
+   width: 200px;
+
+}
+
+.s2{
+   position: absolute;
+   background-color: rgb(43, 41, 41);
+   height: 400px;
+   padding-left: 10%; 
+   padding-top: 50px;
+   display: inline-block;
+}
+
+.about{
+    width: 20%;
+    height: 100%;
+    float: left;
+    margin-right:1%;
+    color:rgb(94, 92, 92);
+    /* background-color: blue; */
+    position: relative;
+    left: 6%;
+    
+}
+.n1{
+   width: 20%;
+   height: 100%;
+    float: left;
+    margin-left: 15%;
+    color:rgb(94, 92, 92);
+
+}
+.ss{
+   width: 20%;
+   height: 100%;
+    float: left;
+    margin-right: 10%;
+    color:rgb(94, 92, 92);
+    
+}
+.mya{
+    color: white;
+}
+.myn{
+   color: white;
+}
+.mys{
+   color: white;
+}
+
+.em1{
+   height: 7%;
+   width: 150%;
+   margin: 10px 0px;
+   border-radius: 3%;
+}
+
+
+.ss1{
+   background-color: rgb(235, 13, 13);
+   color: white; 
+   height: 12%;
+   margin-bottom: 10px;
+border: 1px solid transparent;
+border-radius: 5%;
+   
+}
+.foot{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    color:rgb(94, 92, 92);
+}
